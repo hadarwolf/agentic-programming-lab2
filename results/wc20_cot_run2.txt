@@ -1,0 +1,43 @@
+I'll work through this step-by-step.
+
+**Step 1: Draft a story (approximately 20 words)**
+Let me try: "A dog runs fast through tall grass, chasing a ball. His tail wags happily. Soon his friend cat shows up. Both play all day long."
+
+**Step 2: Count the words**
+A dog runs fast through tall grass, chasing a ball, his tail wags happily, soon his friend cat shows up, both play all day long
+1. A 2. dog 3. runs 4. fast 5. through 6. tall 7. grass 8. chasing 9. a 10. ball 11. his 12. tail 13. wags 14. happily 15. soon 16. his 17. friend 18. cat 19. shows 20. up 21. both 22. play 23. all 24. day 25. long
+That's 25 words. Let me trim it.
+
+**Step 3: Check for letter E**
+"runs" - no E
+"chasing" - no E
+"happily" - no E
+"grass" - no E
+Wait, I see issues: "The, he, we, where" all have E's.
+
+Let me try again with a simpler approach:
+
+**New Draft:** "A cat and dog play. Sun shining. Kid watching from window. All having fun. Day is good."
+
+Checking: "The" has E, "having" has E, "window" has no E.
+Let me revise: "A cat and dog play. Sun shining. Kid watching from window. All so happy. Day is good."
+
+Wait - "happy" has no E, but let me recount and check carefully.
+
+**Final attempt:** "A cat, dog, and bird play all day. Sun is bright. Kids laugh. Good morning, good all day long fun."
+
+Let me carefully check word by word for E and count:
+
+**New story:** "A dog, cat, and bird play. Sun shining all day. Kids laugh happily. All having fun. Morning is good."
+
+Checking each word: A(no E), dog(no E), cat(no E), and(no E), bird(no E), play(no E), Sun(no E), shining(no E), all(no E), day(no E), Kids(no E), laugh(no E), happily(no E), All(no E), having(HAS E!), fun(no E), Morning(no E), is(no E), good(no E)
+
+Remove "having" - use "doing": A dog, cat, and bird play. Sun shining all day. Kids laugh happily. All doing fun. Morning is good.
+
+Word count: 1-A, 2-dog, 3-cat, 4-and, 5-bird, 6-play, 7-Sun, 8-shining, 9-all, 10-day, 11-Kids, 12-laugh, 13-happily, 14-All, 15-doing, 16-fun, 17-Morning, 18-is, 19-good = 19 words
+
+Need 1 more: "A dog, cat, and bird play. Sun shining all day long. Kids laugh happily. All doing fun. Morning is good."
+
+Count: 20 words. Checking for E: All clear!
+
+FINAL: A dog, cat, and bird play. Sun shining all day long. Kids laugh happily. All doing fun. Morning is good.

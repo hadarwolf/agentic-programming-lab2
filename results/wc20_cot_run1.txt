@@ -1,0 +1,45 @@
+I'll work through this step by step.
+
+**Step 1: Draft a story (aiming for 20 words, avoiding the letter E)**
+
+Let me think of a simple story without E:
+"A cat sat on a mat. A dog ran by quickly. They both looked at each other. Finally, they became good friends for life."
+
+**Step 2: Count the words**
+A (1) cat (2) sat (3) on (4) a (5) mat (6) A (7) dog (8) ran (9) by (10) quickly (11) They (12) both (13) looked (14) at (15) each (16) other (17) Finally (18) they (19) became (20) good (21) friends (22) for (23) life (24)
+
+That's 24 words. I need to trim it to 20.
+
+**Step 3: Check for letter E**
+Wait - I see several E's: "mate" has E, "looked" has E, "became" has E, "friends" has E, "life" has E, "They" has E, "other" has E.
+
+Let me start over with a clearer approach.
+
+**New draft:**
+"A dog and cat sit. Sun shining bright today. Both animals play fast. Afternoon brings joy and calm. Friendship was born that day."
+
+**Word count:**
+A (1) dog (2) and (3) cat (4) sit (5) Sun (6) shining (7) bright (8) today (9) Both (10) animals (11) play (12) fast (13) Afternoon (14) brings (15) joy (16) and (17) calm (18) Friendship (19) was (20) born (21) that (22) day (23)
+
+Still 23 words. Let me cut it down:
+
+"A dog and cat sit. Sun shining bright today. Both play fast. Afternoon brings joy. Friendship born that day."
+
+Count: A (1) dog (2) and (3) cat (4) sit (5) Sun (6) shining (7) bright (8) today (9) Both (10) play (11) fast (12) Afternoon (13) brings (14) joy (15) Friendship (16) born (17) that (18) day (19)
+
+That's 19 words. Need one more.
+
+**Checking for E's:** Afternoon has E! Let me replace: "Morning brings joy" instead.
+
+"A dog and cat sit. Sun shining bright today. Both play fast. Morning brings joy. Friendship born that day."
+
+Checking each word for E: A, dog, and, cat, sit, Sun, shining, bright, today, Both, play, fast, Morning, brings, joy, Friendship, born, that, day - all clear!
+
+Word count: 19. Need exactly 20.
+
+**Final version:**
+"A dog and cat sit. Sun shining bright today. Both play so fast. Morning brings joy. Friendship born that day."
+
+Count: A (1) dog (2) and (3) cat (4) sit (5) Sun (6) shining (7) bright (8) today (9) Both (10) play (11) so (12) fast (13) Morning (14) brings (15) joy (16) Friendship (17) born (18) that (19) day (20) ✓
+
+FINAL: A dog and cat sit. Sun shining bright today. Both play so fast. Morning brings joy. Friendship born that day.
